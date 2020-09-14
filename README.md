@@ -11,7 +11,7 @@ Para executar o teste:
 
 Observações: 
 
-A cada execução será necessário alterar o "emailteste2" e o "cpfteste2", pois gera um cadastro e esses dados são únicos.
+A cada execução será necessário alterar o "emailteste2" e o "cpfteste2", pois gera um cadastro e esses dados são únicos. (https://www.geradorcpf.com/)
 
 Ao testar o e-mail inválido será necessário validar um captcha.
 
