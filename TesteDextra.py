@@ -22,11 +22,11 @@ class SignUpTest(unittest.TestCase):
 
         # Dados que serão inseridos nos campos
         emailteste1          = "teste@hotmail.com"
-        emailteste2          = "teste92929292@hotmail.com" # Alterar a cada execução
+        emailteste2          = "teste90909090@hotmail.com" # Alterar a cada execução
         senhateste1          = "12"
         senhateste2          = "Teste13579"
         cpfteste1            = "99999999999"
-        cpfteste2            = "64976119165" # Alterar a cada execução
+        cpfteste2            = "67381589206" # Alterar a cada execução
         nometeste            = "Teste Dextra"
         datateste            = "06051994"
         telefoneteste        = "42999999999"
