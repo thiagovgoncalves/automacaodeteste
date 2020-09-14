@@ -157,6 +157,7 @@ class SignUpTest(unittest.TestCase):
             print("sem juros")
         elif juros != "sem juros":
             print("com juros")
+        time.sleep(30) # Tempo para visualizar as informações caso o projeto seja aberto no console
 
     def tearDown(self):
         self.driver.quit()
